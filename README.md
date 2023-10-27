@@ -1,3 +1,4 @@
+![gif](https://media.giphy.com/media/CogQRwO66H0qRxVSqD/giphy.gif)
 <h1 align="center">Hi 👋, I'm Nefise</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
