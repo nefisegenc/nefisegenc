@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hypatia](https://www.hypatiaa.com/)
 
-- 🌱 I’m currently learning **Frameworks,courses**
+- 🌱 I’m currently learning **Front-end,SQL**
 
 - 📫 How to reach me **nefisenurgenc@gmail.com**
 
